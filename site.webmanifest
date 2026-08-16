@@ -1,0 +1,13 @@
+{
+  "name": "Prateek Yadu",
+  "short_name": "Prateek Yadu",
+  "description": "Software engineer focused on Linux, infrastructure and networking.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0a0b0e",
+  "theme_color": "#0a0b0e",
+  "icons": [
+    { "src": "/favicon.svg", "sizes": "any", "type": "image/svg+xml" },
+    { "src": "/apple-touch-icon.png", "sizes": "180x180", "type": "image/png" }
+  ]
+}
